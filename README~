@@ -1,0 +1,26 @@
+Trippin is a web mashup made using PHP. The site was live at http://trippin.in
+Trippin is your one-stop destination for getting information on a location just before a vacation, a short holiday or a weekend getaway. Never has planning your itinerary been this easy.
+It makes use of various APIs to gather information about a place so that you get all you wanted to know about the place including: 
+
+Location on Google Maps
+Weather forecast for the week
+Places of interest
+Geography
+Pictures
+
+For a more personalized experience, you can now login using your Facebook account.
+Rate and review a place, restaurants, clubs and help fellow travellers get a heads up on the best venues in town. It is rendered intelligent using recommender system that recommends the user locations based on his browsing data; and summarizers which summarize reviews on a location.
+
+
+It uses the following API - 
+1. Google Maps
+2. Wunderground
+3. Freebase
+4. Wolfrom Alpha
+5. Google Places
+6. Foursquare
+7. Tixik
+8. Geocode
+9. Google Showtimes
+
+The site still in its development mode and the code is not very structured.

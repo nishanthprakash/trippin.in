@@ -1,0 +1,8 @@
+[14-Apr-2012 15:43:10 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 57
+[14-Apr-2012 15:43:10 UTC] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'anandheg'@'localhost' (using password: NO) in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 58
+[14-Apr-2012 15:43:10 UTC] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 58
+[14-Apr-2012 15:43:56 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 57
+[14-Apr-2012 15:44:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 66
+[14-Apr-2012 15:46:18 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 71
+[14-Apr-2012 15:46:23 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 71
+[14-Apr-2012 15:46:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/anandheg/public_html/anandghegde.in/se/fb/index.php on line 70
